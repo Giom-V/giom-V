@@ -14,4 +14,4 @@ Now, I'm thriving at Google, navigating the ever-evolving landscape of tech, fro
 ## Some stats (because we all love them, don't we?)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Giom-V&theme=transparent)](https://github.com/Giom-V)
 [![GitHub Streak](https://github-readme-streak-stats-884e2q4xz-giom-vs-projects.vercel.app?user=Giom-V&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)]([https://git.io/streak-stats](https://github-readme-streak-stats-884e2q4xz-giom-vs-projects.vercel.app?user=Giom-V&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly))
-[![trophy](https://github-profile-trophy.vercel.app/?username=Giom-V&theme=dracula)](https://github.com/Giom-V)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Giom-V&theme=dracula&rank=-C)](https://github.com/Giom-V)
