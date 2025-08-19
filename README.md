@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[See my AI-powered interactive resume here](https://bit.ly/giom-ai-resume)
+
 Hey there, I'm **Giom** (aka Guillaume Vernade), a tech explorer who's gone from neural networks to Nest and back to AI, and from Paris to Quebec... and well, a bunch of places in between!
 
 This isn't your typical coder story. My journey started in the world of academia, where I dove deep into neural networks *before* they were cool (talk about being ahead of the curve!). But the lure of the real world (and maybe a touch of loneliness in research) led me to the wild west of tech management, and a love for Agile philosophy.
